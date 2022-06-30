@@ -8,6 +8,8 @@
 <br/>
 
 My bot succeeds in this challenge as it consistently draws with ***Housebot-competition***.
+
+My bot came in **second place out of several thousand participants!**
 <br/>
 <br/>
 
@@ -15,7 +17,6 @@ My bot succeeds in this challenge as it consistently draws with ***Housebot-comp
 Against ***Housebot-practice***, I achieved:
 * A win rate of 96/100
   * (3 draws and 1 loss)
-* This performance placed my bot in 2nd place out of serveral thousand contestants
 
 <br/>
 
@@ -28,4 +29,4 @@ Against ***Housebot-practice***, I achieved:
 
 
 # Links
-For more inforamtion about this game, please check out [AIGaming.com](https://www.aigaming.com/GameInfo/GameTypes?type=53)
+For more inforamtion about this game, and to check my place on the leaderboard :wink:, please check out [AIGaming.com](https://www.aigaming.com/GameInfo/GameTypes?type=53)
